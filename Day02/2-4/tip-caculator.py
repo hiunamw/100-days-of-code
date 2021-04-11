@@ -12,6 +12,6 @@ tip = int(input("What percentage tip would you like to give? 10, 12, or 15? "))
 tip_as_percent = tip / 100
 
 num_of_people = int(input("How many people to split the bill? "))
-dollars_per_person = (total_bill / num_of_people) * (1 + tip_as_percent)
+bill_per_person = (total_bill / num_of_people) * (1 + tip_as_percent)
 
-print(f"Each person should pay: ${dollars_per_person:.2f}")
+print(f"Each person should pay: ${bill_per_person:.2f}")
