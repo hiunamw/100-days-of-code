@@ -10,3 +10,5 @@
 - Lists
 ### Day 5 - Password Generator
 - For Loops
+### Day 6 - Reeborg's World
+- While Loops
