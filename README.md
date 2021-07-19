@@ -1,4 +1,4 @@
-# 100-Days-of-Code
+# 100 Days of Code
 ### Day 1 - Brand Name Generator  
 - Variables
 ### Day 2 - Tip Calculator  
